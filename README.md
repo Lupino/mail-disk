@@ -18,7 +18,7 @@ config.py:
     TO = ['you email adress']
     MAX_MAIL = 2048000 # 最大邮件 限制
     MAX_FILE = MAX_MAIL/2 
-    ROOT = 'root'
+    ROOT = 'root' 绑定的文件夹
     
     # receive part
     IAMP_HOST = ''
